@@ -4,9 +4,9 @@ Dans le chapitre précédent, nous avons détaillé le **processus de prototypag
 
 Nous avons mené des évaluations dans le but d'estimer successivement la capacité des différentes versions d'Innodata (i.e les artefacts) à conduire l'innovation de services issue de l'open data dans les villes intelligentes vers l'idéal qu'elles se sont fixées. En effet, le choix de la *design science research methodology* suppose d'adopter une démarche intrinséquement itérative dans laquelle une première réponse artefactuelle est apportée avant d'être évaluée. Si la réponse est suffisamment pertinente empiriquement et rigoureuse scientifiquement, alors la recherche s'arrête. Dans le cas contraire, la question de recherche est précisée et un nouveau cycle de recherche démarre. Cette nouvelle itération apporte une deuxième réponse artefactuelle qui est à son tour évaluée, et ainsi de suite.
 
-- [ ] Décrire la structure générale des évaluations menées à la fin de chaque cycle de recherche. 
-- [ ] Expliquer le lien avec la partie prototypage et avec la première étape du nouveau cycle 
-- [ ] Dédoubler en évaluation de la pertinence empirique et de la rigueur scientifique 
+- [x] Décrire la structure générale des évaluations menées à la fin de chaque cycle de recherche. 
+- [x] Expliquer le lien avec la partie prototypage et avec la première étape du nouveau cycle 
+- [x] Dédoubler en évaluation de la pertinence empirique et de la rigueur scientifique 
 
 La stratégie globale d'évaluation des artefacts que nous avons mis en place (et qui s'est décliné en fonction des spécificités de chaque itération) reprend les travaux de Venable et al. (2012). Ils proposent un processus de décision éprouvé qui permet d'établir une stratégie d'évaluation d'artefact. Nous l'avons appliqué à chaque itération. Nous aurions pu également nous baser sur les travaux de Pries-Heje (2008). Or, ces derniers proposent un processus de décision moins exhaustif et des stratégies d'évaluation pour un nombre restreint de types de projets de recherche en *design science*. Le processus de Venable et al. (2012) est dès lors plus adaptable aux spécificités de cette thèse. 
 
