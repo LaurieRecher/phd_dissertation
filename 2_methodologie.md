@@ -3,7 +3,7 @@
 Dans le [chapitre précédent](https://github.com/ArthurSrz/phd_dissertation/blob/master/1_revue_de_litterature), nous avons identifié un **gap** dans la littérature scientifique sur lequel nous avons construit la **question de recherche** centrale de cette thèse. 
 
 Les recherches menées jusqu'à présent sur l'**innovation de services** issue de l'**open data** dans les **villes intelligentes** se sont employées à décrire, comprendre et expliquer ce phénomène. Grâce à elles, nous avons une solide connaissance théorique des acteurs, processus, conditions et environnements qui participent à son émergence. A l'inverse, nous avons peu de travaux qui explorent les moyens de favoriser cette innovation et qui permettraient de tester la pertinence empirique des connaissances théoriques. De fait, nous avons proposé la question de recherche suivante comme pilier central de cette thèse :
-> Comment et par quels **artefacts** peut-on favoriser l’innovation de services issue de l’open data dans les villes et sa conduite vers l’idéal qu’elles se sont fixées ? 
+> Comment et par quels **artefacts** peut-on favoriser la conduite de l’innovation de services issue de l’open data dans les villes intelligentes vers l’idéal qu’elles se sont fixées ? 
 
 Nous avons également qualifié l'innovation de services issue de l'open data. 
 
