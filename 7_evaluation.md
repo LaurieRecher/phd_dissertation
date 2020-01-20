@@ -11,7 +11,7 @@ Nous avons mené des évaluations dans le but d'estimer successivement la capaci
 La stratégie globale d'évaluation des artefacts que nous avons mis en place (et qui s'est décliné en fonction des spécificités de chaque itération) reprend les travaux de Venable et al. (2012). Ils proposent un processus de décision éprouvé qui permet d'établir une stratégie d'évaluation d'artefact. Nous l'avons appliqué à chaque itération. Nous aurions pu également nous baser sur les travaux de Pries-Heje (2008). Or, ces derniers proposent un processus de décision moins exhaustif et des stratégies d'évaluation pour un nombre restreint de types de projets de recherche en *design science*. Le processus de Venable et al. (2012) est dès lors plus adaptable aux spécificités de cette thèse. 
 
 ### Première étape de construction de la stratégie d'évaluation : analyse de l'évaluation
-La première étape du processus de décision consiste, une fois les activités de prototypage terminées, à évaluer le contexte et les objectifs de la phase d'évaluation. Venable et al. (2012) préconise de déterminer les 7 éléments suivants et leur importance relative : 
+La première étape du processus de décision consiste, une fois les activités de prototypage terminées, à évaluer le contexte et les objectifs de la phase d'évaluation. Venable et al. (2012) préconise de déterminer les 7 critères suivants et leur importance relative : 
 
 1. **La forme de l'artefact à évaluer** : s'agit-il d'un concept ? d'un modèle ? d'une méthode ? d'une **instance** ? d'une théorie ?
 
@@ -25,10 +25,41 @@ La première étape du processus de décision consiste, une fois les activités 
 
 6. **La rigueur à appliquer** : s'agit-il d'une évaluation préliminaire ou d'une évaluation rigoureusement détaillée ?
 
-7. **Pondération des éléments précédents** : établir une pondération des six éléments précédents en fonction de leur pertinence vis à vis du projet de recherche. 
+7. **Pondération des critères précédents** : établir une pondération des six critères précédents en fonction de leur pertinence vis à vis du projet de recherche. 
 
 ### Deuxième étape de construction de la stratégie d'évaluation : choix d'une stratégie
-Une fois ces éléments identifiés, il s'agit de se reporter au *DSR Evaluation Strategy Selection Framework* qui fait le lien entre ces critères et différentes stratégies possibles pour l'évaluation d'un artefact : évaluation *ex ante* ou *ex post*, évaluation naturaliste ou artificielle. Chaque itération se voit alors attribuée un quadrant avec les caractéristiques de la(les) stratégie(s) choisie(s)
+Une fois ces éléments identifiés, il s'agit de se reporter au Framework de Sélection des Stratégies d'Evaluation en *Design Science Research* (Venable et al., 2012, p.11) qui fait le lien entre ces critères et différentes stratégies possibles pour l'évaluation d'un artefact : évaluation *ex ante* ou *ex post*, évaluation naturaliste ou artificielle. Chaque itération se voit alors attribuée un quadrant avec les caractéristiques de la(les) stratégie(s) choisie(s)
+
+<table>
+    <thead>
+        <tr>
+            <th colspan=2 rowspan=2>Framework de Selection des Stratégies d'Evaluation</th>
+            <th>Ex ante </th>
+            <th>Ex post </th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+            <td></td>
+            <td></td>
+            <td><ul><li>[ ] Evaluation formative</li><li>[ ] Cout moins élevé</li><li>[ ] Plus rapide</li><li>[ ] Evaluation du design, d'un protoype partiel ou complet</li><li>[ ] Moins de risque pour les participants durant l'évaluation</li><li>[ ] Risque plus élevé de faux positifs</li></ul></td>
+            <td><ul><li>[ ] Evaluation sommative</li><li>[ ] Cout plus élevé</li><li>[ ] Moins rapide</li><li>[ ] Evaluation des instances</li><li>[ ] Plus de risques pour les participants durant l'évaluation</li><li>[ ] Risque moins élevé de faux positifs</li></ul></td>
+        </tr>
+        <tr>
+            <td>Naturaliste</td>
+            <td><ul><li>[ ] Plusieurs parties prenantes hétérogènes</li><li>[ ] Conflits substantiels</li><li>[ ] Artefacts socio-technique</li><li>[ ] Cout plus élevé</li><li>[ ] Evaluation longue</li><li>[ ] Accès au terrain requis</li><li>[ ] Evaluation de l'utilité de l'artefact</li><li>[ ] Niveau de rigueur : "On juge l'arbre à ses fruits"</li><li>[ ] Risque plus élevé pour les participants</li><li>[ ] Risque de faux positif plus faible</li></td>
+            <td><ul><li>Utilisateurs réels, problèmes réels et système irréel</li><li>Cout faible-moyen</li></ul><ul><li>Vitesse correcte</li><li>Risque faible pour les participants</li><li>Risque élevé de faux positifs</li></ul></td>
+            <td><ul><li>Utilisateurs réels, problèmes réels et systèmes réels</li><li>Cout le plus élevé</li><li>Risque le plus élevé pour les participants</li><li>Meilleure évaluation de l'utilité</li><li>Identification des effets collatéraux</li><li>Risque le moins élevé de faux positifs</li></ul></td>
+        </tr>
+        <tr>
+            <td>Artificielle</td>
+            <td><ul><li>[ ] Peu de parties prenantes similaires</li><li>[ ] Peu ou pas de conflits</li><li>[ ] Artefacts purement techniques</li><li>[ ] Cout moins élevé</li><li>[ ] Evaluation courte</li><li>[ ] Niveau de rigueur : contrôle des variables</li><li>[ ] Evaluation de l'efficacité </li><li>[ ] Risque moins élevé pendant l'évaluation</li><li>[ ] Risque de faux positif plus élevé</li></ul></td>
+            <td><ul><li>Utilisateurs irréels, problèmes irréels et système irréels</li><li>Cout le moins élevé</li></ul><ul><li>Vitesse la plus élevée</li><li>Risque le moins élevé pour les participants</li><li>Risque le plus élevé de faux positifs</li></ul></td>
+            <td><ul><li>Système réel, problème iréel et utilisateurs irréels</li><li>Cout moyen/élevé</li></ul><ul><li>Vitesse correcte</li><li>Risque faible-moyen pour les participants</li></ul></td>
+        </tr>
+    </tbody>
+</table>
+
 
 ### Troisième étape de construction de la stratégie d'évaluation : choix des méthodes
 A ce premier framework correspond un second, le *DSR Evaluation Method Selection Framework* qui fait correspondre à la stratégie choisie une liste de méthodes d'évaluations appropriéés. Il s'agit ensuite de choisir la (ou les) méthode(s) à appliquer à l'artefact. 
