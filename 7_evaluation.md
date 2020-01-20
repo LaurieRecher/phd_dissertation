@@ -11,15 +11,21 @@ Nous avons mené des évaluations dans le but d'estimer successivement la capaci
 La stratégie globale d'évaluation des artefacts que nous avons mis en place (et qui s'est décliné en fonction des spécificités de chaque itération) reprend les travaux de Venable et al. (2012). Ils proposent un processus de décision éprouvé qui permet d'établir une stratégie d'évaluation d'artefact. Nous l'avons appliqué à chaque itération. Nous aurions pu également nous baser sur les travaux de Pries-Heje (2008). Or, ces derniers proposent un processus de décision moins exhaustif et des stratégies d'évaluation pour un nombre restreint de types de projets de recherche en *design science*. Le processus de Venable et al. (2012) est dès lors plus adaptable aux spécificités de cette thèse. 
 
 ### Première étape de construction de la stratégie d'évaluation : analyse de l'évaluation
-La première étape du processus de décision consiste, une fois les activités de prototypage terminées, à évaluer le contexte et les objectifs de la phase d'évaluation. Venable et al. (2012) préconise de déterminer les éléments suivants et leur importance relative : 
+La première étape du processus de décision consiste, une fois les activités de prototypage terminées, à évaluer le contexte et les objectifs de la phase d'évaluation. Venable et al. (2012) préconise de déterminer les 7 éléments suivants et leur importance relative : 
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. **La forme de l'artefact à évaluer** : s'agit-il d'un concept ? d'un modèle ? d'une méthode ? d'une **instance** ? d'une théorie ?
+
+2.  **La nature de l'artefact à évaluer**. On distingue généralement les artefacts qui prennent la forme d'un produit et ceux qui prennent la forme d'un process. Les process se distinguent des process en ce qu'ils ajoutent aux aspects techniques d'un artefact (technologie utilisée, architecture matérielle ou logicielle) une dimension socio-technique dans la mesure où une interaction avec les humains est nécessaires pour donner à l'artefact toute son utilité. 
+
+3. **Les propriétés de l'artefact à évaluer** : s'agit-il d'évaluer l'utilité ? l'efficience ? l'éfficacité ? la qualité ?
+
+4. **Les objectifs de l'évaluation** : s'agit-il d'évaluer si l'artefact permet d'atteindre des objectifs fixés au préalable ? de le comparer à d'autres artefacts ? d'évaluer les effets collatéraux ou les conséquences inattendues de l'implantation de l'artefact ?
+
+5. **Les contraintes de l'environnement de recherche** : quelles sont les ressources à disposition : temps ? compétences ? budget ? accès aux terrains ? 
+
+6. **La rigueur à appliquer** : s'agit-il d'une évaluation préliminaire ou d'une évaluation rigoureusement détaillée ?
+
+7. **Pondération des éléments précédents** : établir une pondération des six éléments précédents en fonction de leur pertinence vis à vis du projet de recherche. 
 
 ### Deuxième étape de construction de la stratégie d'évaluation : choix d'une stratégie
 Une fois ces éléments identifiés, il s'agit de se reporter au *DSR Evaluation Strategy Selection Framework* qui fait le lien entre ces critères et différentes stratégies possibles pour l'évaluation d'un artefact : évaluation *ex ante* ou *ex post*, évaluation naturaliste ou artificielle. Chaque itération se voit alors attribuée un quadrant avec les caractéristiques de la(les) stratégie(s) choisie(s)
