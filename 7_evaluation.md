@@ -13,11 +13,11 @@ La stratégie globale d'évaluation des artefacts que nous avons mis en place (e
 ### Première étape de construction de la stratégie d'évaluation : analyse de l'évaluation
 La première étape du processus de décision consiste, une fois les activités de prototypage terminées, à évaluer le contexte et les objectifs de la phase d'évaluation. Venable et al. (2012) préconise de déterminer les 7 critères suivants et leur importance relative : 
 
-1. **La forme de l'artefact à évaluer** : s'agit-il d'un concept ? d'un modèle ? d'une méthode ? d'une **instance** ? d'une théorie ?
+1. **La forme de l'artefact à évaluer** : s'agit-il d'un **concept** ? d'un **modèle** ? d'une **méthode** ? d'une **instance** ? d'une _**design theory**_ ?
 
-2.  **La nature de l'artefact à évaluer**. On distingue généralement les artefacts qui prennent la forme d'un produit et ceux qui prennent la forme d'un process. Les process se distinguent des process en ce qu'ils ajoutent aux aspects techniques d'un artefact (technologie utilisée, architecture matérielle ou logicielle) une dimension socio-technique dans la mesure où une interaction avec les humains est nécessaires pour donner à l'artefact toute son utilité. 
+2.  **La nature de l'artefact à évaluer**. On distingue généralement les artefacts qui prennent la forme d'un **produit** et ceux qui prennent la forme d'un process. Les **process** se distinguent des process en ce qu'ils ajoutent aux aspects techniques d'un artefact (technologie utilisée, architecture matérielle ou logicielle) une dimension socio-technique dans la mesure où une interaction avec les humains est nécessaires pour donner à l'artefact toute son utilité. 
 
-3. **Les propriétés de l'artefact à évaluer** : s'agit-il d'évaluer l'utilité ? l'efficience ? l'éfficacité ? la qualité ?
+3. **Les propriétés de l'artefact à évaluer** : s'agit-il d'évaluer l'**utilité** ? l'**efficience** ? l'**éfficacité** ? la **qualité** ?
 
 4. **Les objectifs de l'évaluation** : s'agit-il d'évaluer si l'artefact permet d'atteindre des objectifs fixés au préalable ? de le comparer à d'autres artefacts ? d'évaluer les effets collatéraux ou les conséquences inattendues de l'implantation de l'artefact ?
 
