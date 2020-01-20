@@ -25,7 +25,7 @@ La première étape du processus de décision consiste, une fois les activités 
 
 6. **La rigueur à appliquer** : s'agit-il d'une évaluation préliminaire ou d'une évaluation rigoureusement détaillée ?
 
-7. **Pondération des critères précédents** : établir une pondération des six critères précédents en fonction de leur pertinence vis à vis du projet de recherche. 
+7. **Pondération des critères précédents** : établir une pondération des six critères précédents en fonction de leur pertinence vis à vis du projet de recherche. Nous avons attribué à chacun des critères un coefficient allant de 1 (=critère non-pertinent) à 5 (=critère essentiel)
 
 ### Deuxième étape de construction de la stratégie d'évaluation : choix d'une stratégie
 Une fois ces éléments identifiés, il s'agit de se reporter au Framework de Sélection des Stratégies d'Evaluation en *Design Science Research* (Venable et al., 2012, p.11) qui fait le lien entre ces critères et différentes stratégies possibles pour l'évaluation d'un artefact : évaluation *ex ante* ou *ex post*, évaluation naturaliste ou artificielle. Chaque itération se voit alors attribuée un quadrant avec les caractéristiques de la(les) stratégie(s) choisie(s)
