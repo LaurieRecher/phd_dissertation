@@ -78,7 +78,7 @@ Une question articulant des objets théoriques, empiriques ou méthodologiques e
 ### Qualité
 - [ ] done 
 
-### "On juge un arbre à ses fruits"
+### "On juge un arbre à ses fruits" (évaluation)
 - [ ] done 
 
 ### Naturaliste (évaluation)
