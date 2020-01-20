@@ -21,6 +21,9 @@ Une question articulant des objets théoriques, empiriques ou méthodologiques e
 ### Artefact 
 - [ ] done 
 
+#### Produit/Technique VS. Process/Socio-technique (Artefact)
+- [ ] done 
+
 ### Wicked problem
 - [ ] done 
 
@@ -46,4 +49,46 @@ Une question articulant des objets théoriques, empiriques ou méthodologiques e
 - [ ] done 
 
 ### Design de recherche 
+- [ ] done 
+
+### Instance
+- [ ] done 
+
+### Concept
+- [ ] done 
+
+### Modèle
+- [ ] done 
+
+### Méthode
+- [ ] done 
+
+### Design theory
+- [ ] done 
+
+### Utilité
+- [ ] done 
+
+### Efficience
+- [ ] done 
+
+### Efficacité
+- [ ] done 
+
+### Qualité
+- [ ] done 
+
+### "On juge un arbre à ses fruits"
+- [ ] done 
+
+### Naturaliste (évaluation)
+- [ ] done 
+
+### Artificielle (évaluation)
+- [ ] done 
+
+### Formative (évaluation)
+- [ ] done 
+
+### Sommative (évaluation)
 - [ ] done 
