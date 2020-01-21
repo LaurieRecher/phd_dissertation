@@ -92,3 +92,12 @@ Une question articulant des objets théoriques, empiriques ou méthodologiques e
 
 ### Sommative (évaluation)
 - [ ] done 
+
+### Principes de design 
+- [ ] done 
+
+### Proposition de design
+- [ ] done 
+
+### Design d'un système
+- [ ] done 
