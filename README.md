@@ -63,7 +63,7 @@ Une question articulant des objets théoriques, empiriques ou méthodologiques e
 ### Méthode
 - [ ] done 
 
-### Design theory
+### Design theory/*Kernel theories
 - [ ] done 
 
 ### Utilité
@@ -105,3 +105,49 @@ Une question articulant des objets théoriques, empiriques ou méthodologiques e
 ### Instanciation
 - [ ] done 
 
+### Besoins fonctionnels
+- [ ] done 
+
+### Opérateurs de l'open data
+- [ ] done 
+
+### Intervention en systèmes d'information
+- [ ] done 
+
+### Situation problématique/Situation désirée
+- [ ] done 
+
+### Elements fonctionnels
+- [ ] done
+
+### Modèle de design
+- [ ] done
+
+### Classe/Type d'artefact
+- [ ] done
+
+### Outils logiciels
+- [ ] done
+
+### Pattern de design
+- [ ] done
+
+### Type de prototypage
+- [ ] done
+
+### Objectif de prototypage
+- [ ] done
+
+### Interactions utilisateur/artefact
+- [ ] done
+
+### Fonctions/fonctionnalités
+- [ ] done
+
+### Architecture d'un prototype
+- [ ] done
+
+### Utilisabilité/Utilité/Usage
+- [ ] done
+
+###
