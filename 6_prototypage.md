@@ -4,8 +4,6 @@ Dans le chapitre précédent, nous avons détaillé le processus de design qui, 
 
 L'objet de ce chapitre est d'assurer le passage de la dimension conceptuelle à la dimension matérielle. Autrement dit, il s'agit de mettre en oeuvre un processus d'instanciation qui permet "d'implémenter des fonctionnalités dans un objet à partir d'une structure prédéfinie et pré-optimisée" (Cofer et Harding, 2006, p.120). 
 
-- [x] Rédiger plan détaillé après lecture de Ince et Hekmatpour (1997) et des pattern de Vaishnavi and Kuelcher (2015)
-
 Pour chacune des itérations de cette thèse, nous suivrons un processus d'instanciation basé sur une actualisation des travaux de Ince et Hekmatpour (1987). Ces derniers ont défini un process en trois étapes :  
 
   1. Définir les objectifs du prototype relativement au projet de recherche 
