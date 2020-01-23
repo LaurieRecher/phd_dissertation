@@ -65,11 +65,11 @@ La deuxième étape consiste à sélectionner, par élément fonctionnel, les fo
 
 La 3ème étape consiste à construire concrètement le prototype, c'est à dire à mettre en place les fonctions sélectionnées selon le type de prototypage choisi. Comme mentionné précedemment, nous utiliserons des outils logiciels pour prototyper chaque fonction. Plus précisément, nous utiliserons des outils configurables à partir d'un tableur excel ou Google sheet du fait que ces outils sont connus et utilisé de tout le monde. Cette diffusion massive facilitera la prise en main des prototype par l'ensemble des concepteurs impliqué dans cette thèse mais aussi la future implémentation dans des situations réelles. Il sera en effet d'autant plus facile de mettre en place ces artefacts si les utilisateurs peuvent être rapidement en capacité de configurer ses fonctions au gré de leurs envies. 
 
-  - [x] Architecture (modèle simple) - rappel phase design
+#### Architecture (modèle simple) - rappel phase design
   
 Dans cette construction, nous reprendrons le modèle de design créé et les éléments fonctionnels identifiés dans le chapitre 5 pour dessiner à partir de là une architecture générale du prototype. Nous diviserons ensuite cette architecture en différents aires fonctionnelles dans lesquelles nous viendrons placer les fonctions sélectionnées. Alors, nous suivrons le pattern des *Building Blocks* (Vaishnavi et Kuelcher, 2015, p.138). Il préconise de décomposer chaque fonction en fonctions plus petite jusqu'à ce que correspondent à chaque fonction un outil logiciel dédié pouvant construire la fonction. Ensuite, il s'agit de construire la fonction puis de les assembler récursivement jusqu'à que toutes les fonctions soient assurées et que les aires fonctionnelles soient opérationnelles.
 
-  - [x] Operations/Prototypage des interfaces
+#### Operations/Prototypage des interfaces
   
 Une fois le prototype construit, il s'agit de rédiger des scénarios d'utilisabilité, indépendant du contexte d'usage, qui permettent de dessiner le fonctionnement opérationnel du prototype et montre sa facilité d'utilisation (Pascal et Rouby, 2006). Il permet de simuler la façon dont les diverses fonctions opérent en interactions avec l'utilisateur. On trouve également dans ces scénarios des prototypes d'interfaces utilisateurs qui permettent de se rendre compte de l'aspect visuel des fonctions et du point de vue de l'utilisateur lorsqu'il les utilise. 
 
