@@ -21,12 +21,12 @@ Finalement, pour chaque itération, nous suivrons un processus en quatre étapes
   3. Construire le prototype 
   4. Etablir les mécanismes permettant de venir implémenter le prototype dans un contexte d'usage réel
 
-  - [x] **1ère étape : définir les objectifs du prototype vis à vis de la recherche**
+ ### 1ère étape : définir les objectifs du prototype vis à vis de la recherche et le type de prototypage
 
 Dans la première étape, il s'agit de déterminer ce que nous cherchons à accomplir avec le prototype vis à vis du projet de recherche. 
 Trois alternatives s'offrent à nous (Carey et Mason, 1983). Un prototype peut avoir pour objectif de préciser la compréhension des besoins fonctionnels des futurs utilisateurs du prototype (*improved functional requirements*). Dans ce cas, le prototype devient un intermédiaire, un moyen d'apprentissage, une loupe d'observation au service de la compréhension des besoins des utilisateurs. Aussi, un prototype peut avoir pour objectif d'améliorer les interactions entre ce dernier et les utilisateurs (*improved interaction requirements*). Il est fréquent qu'un prototype ne soit pas utilisé du fait du design de l'interface qui décourage les utilisateurs. Dans ce cas, on intègre de nouvelles interfaces de façon à améliorer les interactions entre l'utilisateur et l'artefact. Enfin, un chercheur peut mettre en place un prototype pour s'assurer de sa capacité à s'adapter aux évolutions des besoins des utilisateurs (*easier evolution of requirements*). On conçoit alors un système indéfini, qui peut prendre plusieurs formes en fonction des contextes d'usage et de leur évolution. Les systèmes d'aide à la décision sont de bons exemples de systèmes indéfinis qui peuvent être façonnés au gré des situations rencontrées par les utilisateurs. 
 
-  - [X] Choix d'un type de prototypage (throw-it-away, incremental, evolutionnary)
+#### Choix d'un type de prototypage (throw-it-away, incremental, evolutionnary)
  
 Le choix de ces objectifs va avoir une incidence sur le type de prototypage mis en place. De ce fait, dans la première étape, nous définirons également, pour chaque itération, le type de prototypage qui sera mis en place.
 
@@ -57,11 +57,11 @@ On distingue le prototypage *throw-it-away*, le prototypage incrémental et le p
 
 ##### Figure. Tableau de correspondance entre les objectifs et les types de prototypage.   
   
-  - [X] **2ème étape : sélectionner les fonctions du prototype (classées par élément fonctionnel)**
+### 2ème étape : sélectionner les fonctions du prototype (classées par élément fonctionnel)
 
 La deuxième étape consiste à sélectionner, par élément fonctionnel, les fonctions qui seront protoypées. Pour effectuer ce choix, nous utiliserons les critères du pattern *Easy solution first* (Vaishnavi et Kuelcher, 2015, p.131). Ce pattern vise à toujours privilégier les fonctions faciles à mettre en oeuvre en période de prototyage. Ainsi, nous sélectionnerons les fonctions pour lequels il existe une solution de prototypage facile à mettre en oeuvre et à évaluer. Autrement dit, nous priviligierons les fonctions qui peuvent être facilement mise en place par des outils logiciels connus et ne nécessitant pas de connaissances techniques. Cette façon de sélectionner les fonctions a notamment été choisi par Berners-Lee and Cailliau (1990) quand ils ont présenté pour la première fois le concept de *World Wide Web*. Internel était dépeint comme une combinaison de 2 éléments fonctionnels (un navigateur et un serveur) avec des fonctions simples : le navigateur a pour fonction de lire des liens hypertextextes qui correspondent à des noeuds d'un réseau et de garder un historique des liens lus ; le serveur, quant à lui, stocke tous les réseaux de noeuds et négocie avec le navigateur le format sous lequel les liens peuvent être lus. 
 
-  - [x] **3ème étape : construire le prototype**
+### 3ème étape : construire le prototype
 
 La 3ème étape consiste à construire concrètement le prototype, c'est à dire à mettre en place les fonctions sélectionnées selon le type de prototypage choisi. Comme mentionné précedemment, nous utiliserons des outils logiciels pour prototyper chaque fonction. Plus précisément, nous utiliserons des outils configurables à partir d'un tableur excel ou Google sheet du fait que ces outils sont connus et utilisé de tout le monde. Cette diffusion massive facilitera la prise en main des prototype par l'ensemble des concepteurs impliqué dans cette thèse mais aussi la future implémentation dans des situations réelles. Il sera en effet d'autant plus facile de mettre en place ces artefacts si les utilisateurs peuvent être rapidement en capacité de configurer ses fonctions au gré de leurs envies. 
 
@@ -73,6 +73,6 @@ Dans cette construction, nous reprendrons le modèle de design créé et les él
   
 Une fois le prototype construit, il s'agit de rédiger des scénarios d'utilisabilité, indépendant du contexte d'usage, qui permettent de dessiner le fonctionnement opérationnel du prototype et montre sa facilité d'utilisation (Pascal et Rouby, 2006). Il permet de simuler la façon dont les diverses fonctions opérent en interactions avec l'utilisateur. On trouve également dans ces scénarios des prototypes d'interfaces utilisateurs qui permettent de se rendre compte de l'aspect visuel des fonctions et du point de vue de l'utilisateur lorsqu'il les utilise. 
 
-  - **4ème étape. Etablir les mécanismes permettant de venir implémenter le prototype dans un contexte d'usage réel**
+ ### 4ème étape. Etablir les mécanismes permettant de venir implémenter le prototype dans un contexte d'usage réel
 
 Etant donné que nous prototypons des interventions, il est aussi question de s'interroger sur les approches de mise en place du prototype et son utilité dans un contexte particulier : celui de la réutilisation de l'open data dans les villes intelligentes. Il s'agit alors, au delà de s'interroger sur l'utilisabilité de l'outil, de question son utilité et d'établir les mécanismes qui permettent de lier les deux. Ces mécanismes seront dessinées dans des scénarios d'usage pour chacune des itérations de cette thèse. 
