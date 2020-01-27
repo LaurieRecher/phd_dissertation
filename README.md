@@ -150,4 +150,6 @@ Une question articulant des objets théoriques, empiriques ou méthodologiques e
 ### Utilisabilité/Utilité/Usage
 - [ ] done
 
-###
+### Barrières socio-technique 
+
+Elements ayant une influence négative sur les interactions entre un système technique et un système social et de fait, sur les résultats de ces interactions (Bostrom et Heinen, 1977; Vonk et Ligtenberg, 2010)
