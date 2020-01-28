@@ -179,3 +179,9 @@ Elements ayant une influence négative sur les interactions entre un système te
 ### Processus de recherche(Hevner et al., 2004)
 - [ ] done 
 
+### Protocole de l'étude de cas 
+- [ ] done 
+
+### Instruments de l'étude de cas
+- [ ] done 
+
