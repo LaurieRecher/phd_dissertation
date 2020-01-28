@@ -173,3 +173,4 @@ Elements ayant une influence négative sur les interactions entre un système te
 ### Contexte (Situation Problématique)
 - [ ] done 
 
+### Pertinence (Research relevance)
