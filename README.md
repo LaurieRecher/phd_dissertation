@@ -174,3 +174,8 @@ Elements ayant une influence négative sur les interactions entre un système te
 - [ ] done 
 
 ### Pertinence (Research relevance)
+- [ ] done 
+
+### Processus de recherche(Hevner et al., 2004)
+- [ ] done 
+
