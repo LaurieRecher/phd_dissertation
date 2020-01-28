@@ -155,7 +155,7 @@ Une question articulant des objets théoriques, empiriques ou méthodologiques e
 
 Elements ayant une influence négative sur les interactions entre un système technique et un système social et de fait, sur les résultats de ces interactions (Bostrom et Heinen, 1977; Vonk et Ligtenberg, 2010)
 
-### La carte et le territoire
+### La carte et le territoire (Situation Problématique)
 - [ ] done 
 
 ### Ecosystème open data
@@ -163,3 +163,13 @@ Elements ayant une influence négative sur les interactions entre un système te
 
 ### Open data work/Usage des données ouvertes
 - [ ] done
+
+### Heuristique
+- [ ] done
+
+### Unité d'analyse
+- [ ] done
+
+### Contexte (Situation Problématique)
+- [ ] done 
+
