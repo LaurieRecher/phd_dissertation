@@ -185,3 +185,8 @@ Elements ayant une influence négative sur les interactions entre un système te
 ### Instruments de l'étude de cas
 - [ ] done 
 
+### Entretiens semi-directifs
+- [ ] done 
+
+### Analyse de documents
+- [ ] done 
