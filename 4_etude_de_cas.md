@@ -96,6 +96,6 @@ Cette phase de confrontation permettra d’identifier les similitudes ou au cont
 
 
 ### 9ème cas : Atteinte du point de clôture 
-- [ ] done - expliquer la variation du protocole en fonction de l'itération 
+- [X] done - expliquer la variation du protocole en fonction de l'itération 
 
 Enfin, cette dernière étape consiste à décider quand il s’agit d’arrêter les itérations entre la littérature et les données. Idéalement, cette étape s’arrêtera quand on atteindra la saturation théorique, c’est à dire quand l’apprentissage marginal de chaque nouvelle donnée sera minime voire nulle. 
