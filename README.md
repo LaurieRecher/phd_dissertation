@@ -164,7 +164,7 @@ Elements ayant une influence négative sur les interactions entre un système te
 ### Open data work/Usage des données ouvertes
 - [ ] done
 
-### Heuristique
+### Heuristique (modèle)
 - [ ] done
 
 ### Unité d'analyse
@@ -190,3 +190,41 @@ Elements ayant une influence négative sur les interactions entre un système te
 
 ### Analyse de documents
 - [ ] done 
+
+### Cycle de pertinence (Hevner et Chatterjee, 2010)
+- [ ] done 
+
+### Cycle de design (Hevner et Chatterjee, 2010)
+- [ ] done 
+
+### Cycle de rigueur (Hevner et Chatterjee, 2010)
+- [ ] done 
+
+### Parties prenantes des plateformes (Eisenmann et al., 2008 ; Lusch et Nambisan, 2015)
+- [ ] done 
+
+### Exploration hybride (démarche) (Thiétart et al., 2014, p.93)
+- [ ] done 
+
+### Méthode des cas (Hlady-Rispal,2002)
+- [ ] done 
+
+### Canevas de recherche (Hlady-Rispal,2002)
+- [ ] done 
+
+### Impératif de décentration/impératif de participation (Hlady-Rispal,2002, p.109) 
+- [ ] done 
+
+### Echantillon d'observation (Thiétart et al., 2014)
+- [ ] done 
+
+### Technique de la boule de neige
+- [ ] done 
+
+### Principe d'opportunisme méthodologique (Hlady-Rispal,2002)
+- [ ] done 
+
+### Contexte parents (Passeron, 2006)
+- [ ] done 
+
+
