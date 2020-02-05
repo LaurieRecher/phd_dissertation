@@ -38,6 +38,7 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
             <td><ul><li>Deakin (2009)</li><li>Harrison et al.(2010)</li><li>Giffinger et al. (2007)</li><li>Silva-Morales (2007)</li><li>Smart city de Dameri (2017)</li><li>Picon (2015)</li><li>Wiki city de Boullier (2016)</li></ul></td>
         </tr>
         <tr>
+            <td>Objets de recherche possibles</td>
             <td>Plateforme de services</td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
@@ -46,6 +47,7 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
             <td><ul><li>Lusch et Nambisan (2015)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
         </tr>
         <tr>
+            <td>Objets de recherche possibles</td>
             <td>(Open) Data</td>
             <td><ul><li>Courmont (2016)</li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
@@ -54,6 +56,7 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
         </tr>
         <tr>
+            <td>Objets de recherche possibles</td>
             <td>Ecosystème open data</td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
