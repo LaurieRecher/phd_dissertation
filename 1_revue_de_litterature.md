@@ -31,11 +31,11 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
       <tr>
            <tr>
             <td>Objets de recherche possibles</td>
-            <td><ul><li>Individuel</li>Groupe/Equipe<li>Projet</li>Aire fonctionnelle<li>Business unit</li><li></li><li></li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
+               <td><ul><li>Individuel</li>Groupe/Equipe<li>Projet</li><li>Aire fonctionnelle</li><li>Business unit</li><li></li><li></li><li></li></ul></td>
+            <td><ul><li>Entreprise</li><li>Autre organisation</li><li>Stratégie</li><li>Business model</li></ul></td>
+            <td><ul><li>Parties prenantes externes</li><li>Individus</li><li>Communauté</li><li>Organisation</li><li></li></ul></td>
+            <td><ul><li>Alliance</li><li>Réseau</li><li>Ecosystème</li></ul></td>
+            <td><ul><li>Développement d'une industrie</li><li>Différences inter-industrielles</li><li>Régions locales</li><li>Pays</li><li>Institutions supra-étatiques</li><li>Citoyens</li><li>Politique publique</li></ul></td>
         </tr>
             <td>Smart city</td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
