@@ -31,9 +31,9 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
       <tr>
            <tr>
             <td>Objets de recherche possibles</td>
+            <td><ul><li>Individuel</li>Groupe/Equipe<li>Projet</li>Aire fonctionnelle<li>Business unit</li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li>Pitt et al.(2017)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
+            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
         </tr>
