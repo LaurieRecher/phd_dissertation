@@ -11,14 +11,15 @@ Nous utiliserons ici le framework multi-niveau développé par Bogers et al. (20
 - le niveau inter-organisationnel
 - le niveau industriel, territorial et sociétal
 
-A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte les travaux qui sollicient plusieurs niveaux d'analyse
+A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte les travaux qui sollicient plusieurs niveaux d'analyse.
 
 
 
 <table>
     <thead>
         <tr>
-            <th>Concept/Unité d'analyse</th>
+            <th>Unité d'analyse</th>
+            <th>Objets de recherche possibles</th>
             <th>Intra-organisationnel</th>
             <th>Organisationnel</th>
             <th>Extra-organisationnel </th>
