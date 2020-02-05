@@ -33,17 +33,17 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
             <td>Objets de recherche possibles</td>
                <td><ul><li>Individuel</li>Groupe/Equipe<li>Projet</li><li>Aire fonctionnelle</li><li>Business unit</li></ul></td>
             <td><ul><li>Entreprise</li><li>Autre organisation</li><li>Stratégie</li><li>Business model</li></ul></td>
-            <td><ul><li>Parties prenantes externes</li><li>Individus</li><li>Communauté</li><li>Organisation</li><li></li></ul></td>
+            <td><ul><li>Parties prenantes externes</li><li>Individus</li><li>Communauté</li><li>Organisation</li></ul></td>
             <td><ul><li>Alliance</li><li>Réseau</li><li>Ecosystème</li></ul></td>
             <td><ul><li>Développement d'une industrie</li><li>Différences inter-industrielles</li><li>Régions locales</li><li>Pays</li><li>Institutions supra-étatiques</li><li>Citoyens</li><li>Politique publique</li></ul></td>
             <td>Combinaisons des niveaux précédents</td>
         </tr>
             <td>Smart city</td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li>Good old city (Boullier, 2016)</li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li>Ishida et Isbister (2000)</li><li>Batty et al. (2012)</li><li>Digital city de Dameri (2017)</li><li>Rabari et Storper (2015)</li><li>Townsend (2013)</li><li>Courmont (2016)</li><li>IBM city de Boullier (2016)</li><li></li></ul></td>
-            <td><ul><li>Google city de Boullier (2016)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li>Deakin (2009)</li><li>Harrison et al.(2010)</li><li>Giffinger et al. (2007)</li><li>Silva-Morales (2007)</li><li>Smart city de Dameri (2017)</li><li>Picon (2015)</li><li>Wiki city de Boullier (2016)</li></ul></td>
+            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
+            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
+            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
+            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
         </tr>
         <tr>
             <td>Plateforme de services</td>
@@ -51,11 +51,11 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li>Pitt et al.(2017)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li>Lusch et Nambisan (2015)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
+            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
         </tr>
         <tr>
             <td>(Open) Data</td>
-            <td><ul><li>Courmont (2016)</li><li></li><li></li><li></li><li></li><li></li></ul></td>
+            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
