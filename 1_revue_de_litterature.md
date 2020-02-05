@@ -18,8 +18,7 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
 <table>
     <thead>
         <tr>
-            <th>Unité d'analyse</th>
-            <th>Objets de recherche possibles</th>
+            <th>Concept/Unité d'analyse</th>
             <th>Intra-organisationnel</th>
             <th>Organisationnel</th>
             <th>Extra-organisationnel </th>
@@ -30,6 +29,7 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
     </thead>
     <tbody>
       <tr>
+            <td>Objets de recherche possibles</td>
             <td>Smart city</td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li>Good old city (Boullier, 2016)</li><li></li><li></li><li></li><li></li><li></li></ul></td>
