@@ -50,7 +50,7 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
             <td>Plateforme de services</td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td><ul><li>Pitt et al.(2017)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
+            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td></td>
