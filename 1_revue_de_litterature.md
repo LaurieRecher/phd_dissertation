@@ -44,6 +44,7 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
+            <td></td>
         </tr>
         <tr>
             <td>Plateforme de services</td>
@@ -52,6 +53,7 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
             <td><ul><li>Pitt et al.(2017)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
+            <td></td>
         </tr>
         <tr>
             <td>(Open) Data</td>
@@ -60,6 +62,7 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
+            <td></td>
         </tr>
         <tr>
             <td>Ecosystème open data</td>
@@ -68,6 +71,7 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
+            <td></td>
         </tr>
 
    
