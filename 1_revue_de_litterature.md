@@ -11,7 +11,7 @@ Nous utiliserons ici le framework multi-niveau développé par Bogers et al. (20
 - le niveau inter-organisationnel
 - le niveau industriel, territorial et sociétal
 
-A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte les travaux qui sollicient plusieurs niveaux d'analyse.
+A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte les travaux qui superposent plusieurs niveaux d'analyse, et un septième pour lister les travaux reconnaissant une tension paradoxale (K. Smith et al., 2017) entre les différents niveaux d'analyse. Par tension paradoxale, nous entendons que "les différents niveaux d'analyse se confrontent les uns aux autre de manière contradictoire tout en étant nécessairement interdépendants" (K. Smith et al., 2017, p.305)
 
 
 
@@ -24,7 +24,8 @@ A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte l
             <th>Extra-organisationnel </th>
             <th>Inter-organisationnel</th>
             <th>Industriel, territorial et sociétal</th>
-            <th>Multi-niveaux</th>
+            <th>Superposition des niveaux d'analyse</th>
+            <th>Tension paradoxale entre les niveaux d'analyse</th>
         </tr>
     </thead>
     <tbody>
