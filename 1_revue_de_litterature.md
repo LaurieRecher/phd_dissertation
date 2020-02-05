@@ -1,16 +1,30 @@
 - [X] S'inspirer du découpage de Bogers et al. (2016) Landscape of Open Innovation
 
-Dans ce chapitre, nous effectuerons une revue de littérature visant dessiner les courants qui irriguent la recherche sur l'innovation de services issue de l'open data. 
+Dans ce chapitre, nous effectuerons une revue de littérature visant à fournir une image critique des différents courants qui irriguent la recherche sur l'innovation de services issue de l'open data. Notre raisonnement réutilisera le pattern de *framework development* développé par Vaishnavi et Kuelcher (2015, p. 115) et qui suggère au chercheur d'effectuer une analyse morphologique (Zwicky, 1967) des informations dans un domaine. Plus concrètement, il s'agit d'utiliser un framework visuel permettant de classifier les contenus scientifiques dont nous nous sommes imprégnés. 
+- [ ] Lister les étapes du pattern ?
+
+Nous utiliserons ici le framework multi-niveau développé par Bogers et al. (2016) pour classifier la littérature sur le concept d'open innovation (Chesbrough, 2003). Il distingue 5 niveaux/unités d'analyse permettant de classer les déterminants, process et résultats d'un phénomène : 
+
+- le niveau intra-organisationnel
+- le niveau organisationnel
+- le niveau extra-organisationnel
+- le niveau inter-organisationnel
+- le niveau industriel, territorial et sociétal
+
+A ces 5 niveaux, nous en ajoutons une sixième qui permet de prendre en compte les travaux qui sollicient plusieurs niveaux d'analyse
+
+
 
 <table>
     <thead>
         <tr>
             <th>Concept/Unité d'analyse</th>
-            <th>Individuelle</th>
-            <th>Organisation/Communauté</th>
-            <th>Ville </th>
-            <th>Pays/International</th>
-            <th>Multi</th>
+            <th>Intra-organisationnel</th>
+            <th>Organisationnel</th>
+            <th>Extra-organisationnel </th>
+            <th>Inter-organisationnel</th>
+            <th>Industriel, territorial et sociétal</th>
+            <th>Multi-niveaux</th>
         </tr>
     </thead>
     <tbody>
