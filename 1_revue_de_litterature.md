@@ -38,6 +38,7 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
             <td><ul><li>Alliance</li><li>Réseau</li><li>Ecosystème</li></ul></td>
             <td><ul><li>Développement d'une industrie</li><li>Différences inter-industrielles</li><li>Régions locales</li><li>Pays</li><li>Institutions supra-étatiques</li><li>Citoyens</li><li>Politique publique</li></ul></td>
             <td>Combinaisons des niveaux précédents</td>
+            <td>Niveaux contradictoires et interdépendants</td>
         </tr>
             <td>Smart city</td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
