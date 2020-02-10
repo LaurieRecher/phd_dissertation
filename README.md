@@ -19,7 +19,9 @@ Une question articulant des objets théoriques, empiriques ou méthodologiques e
 - [ ] done 
 
 ### Artefact 
-- [ ] done 
+- [X] done 
+
+Résultat d'une recherche en design science créé dans le but de répondre à un problème organisationnel important. De nombreux débats existent dans la communauté des chercheurs en système d'information autour de la forme que peut prendre cet artefact. D'un côté, pour l'école américaine (Hevner et al., 2004 ; March et Smith., 1995) un artefact se définit par sa dimension matérielle et technologique (*IT artefact*). Il peut prendre la forme d'un modèle, d'un construit, d'une méthode ou d'une instanciation. De l'autre, pour l'école européenne et son porte-parole Carlsson (2006, 2010), un artefact doit prendre en compte les individus et les organisations qui gravitent autour des objets matériels et technologiques (*IS intervention*). Offermann et al. (2010), en accord avec cette typologie, distingue les artefacts structurels des artefacts comportementaux. 
 
 #### Produit/Technique VS. Process/Socio-technique (Artefact)
 - [ ] done 
@@ -132,6 +134,11 @@ Une question articulant des objets théoriques, empiriques ou méthodologiques e
 ### Pattern de design
 - [ ] done
 
+### Processus de prototypage
+- [X] done
+
+Un processus de prototypage est une méthodologie de développement d'un système basé sur la construction et l'évaluation de prototypes d'un système et ce dans le but de clarifier, en collaboration avec les futurs utilisateurs, leurs besoins (Baskerville et al., 2009, p.2)
+
 ### Type de prototypage
 - [ ] done
 
@@ -174,8 +181,14 @@ Elements ayant une influence négative sur les interactions entre un système te
 - [ ] done 
 
 ### Pertinence (Research relevance)
-- [ ] done 
+- [X] done 
 
+La pertinence d'une recherche interroge sa capacité à pouvoir être appliqué dans la travail quotidiens des praticiens qu'elle vise à éclairer. Selon Benbasat et Zmud (1999), elle est déterminée par quatre critères : 
+  * le choix d'un sujet en lien avec les problèmes, dilemmes et challenges que rencontre les organisations au moment où la recherche est produite
+  * la forme des prescriptions établies : elles doivent être formulées de telle manière à pouvoir être applicables en l'état par les pracitiens
+  * la concordance entre les technologies et problèmes adressés dans la recherche et ceux utilisés par les praticiens au moment de la publication. 
+  * le style et le ton des contenus qui facilite leur accès aux praticiens. 
+  
 ### Processus de recherche(Hevner et al., 2004)
 - [ ] done 
 
