@@ -1,5 +1,11 @@
+---
+auteur: John Doe
+number_sections: TRUE
+output:
+  html_document
+titre: Glossaire
+---
 # Glossaire
-
 
 ### Gap (*research gap*)
 
@@ -188,7 +194,8 @@ La pertinence d'une recherche interroge sa capacité à pouvoir être appliqué 
   * la forme des prescriptions établies : elles doivent être formulées de telle manière à pouvoir être applicables en l'état par les pracitiens
   * la concordance entre les technologies et problèmes adressés dans la recherche et ceux utilisés par les praticiens au moment de la publication. 
   * le style et le ton des contenus qui facilite leur accès aux praticiens. 
-  
+ 
+ Voir [Cyle de pertinence (Hevner et Chatterjee, 2010)]
 ### Processus de recherche(Hevner et al., 2004)
 - [ ] done 
 
