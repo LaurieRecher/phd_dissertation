@@ -136,16 +136,24 @@ Design augmenté par un cadre théorique et des propositions qui précisent son 
 - [ ] done 
 
 ### Evaluation naturaliste
-- [ ] done 
+- [X] done 
+
+Type d'évaluation permettant d'explorer la performance d'un artefact dans un environnement réel (utilisateurs, systèmes et problématiques réelles). Ce type d'évaluation permet d'aborder toute la complexité des pratiques dans les organisations réelles et, à ce titre, béneficie d'une forte validité interne (Venable et al., 2012). 
 
 ### Evaluation artificielle
-- [ ] done 
+- [X] done 
+
+Type d'évaluation permettant de tester des hypothèses quant à la performance d'un artefact dans un environnement contrôlé (utilisateurs, systèmes et problématiques fictives). Du fait de la prédominance du paradigme scientifique positiviste, ce type d'évaluation jouit d'une plus grande fiabilité auprès de la communauté scientifique et ce, dans la mesure où elle respecte les critères de falsification et de reproducibilité (Venable et al., 2012). 
 
 ### Evaluation formative
-- [ ] done 
+- [X] done 
+
+Type d'évaluation utilisé quand l'artefact est en cours de développement et qu'il s'agit de déterminer où il est question d'apporter des précisisions et des améliorations (Venable et al., 2012)
 
 ### Evaluation sommative
-- [ ] done 
+- [X] done 
+
+Type d'évaluation visant à établir la capacité d'un artefact à atteindre les objectifs initialement fixés (utilité, efficacité, etc.)
 
 ### Principes de design 
 - [ ] done 
