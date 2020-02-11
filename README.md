@@ -33,18 +33,25 @@ Résultat d'une recherche en design science créé dans le but de répondre à u
 
 Un artefact peut prendre les formes suivantes : 
  
- * Des concepts/construits
+  - Des concepts/construits
 
 Conceptualisations permettant de décrire le problème au sein d'un domaine et de spécifier les solutions possibles. Ils forment ainsi le vocabulaire du domaine (March et Smith, 1995). Ces conceptualisations peuvent atteindre un degré de formalisation élevé à l'instar des construits utilisés dans la modélisation de données sémantiques (entités, attributs, etc.) ou plus informel à l'instar des concepts utilisés pour analyser le travail coopératif (consensus, participation, satisfaction)
 
- * Un modèle 
+  - Un modèle 
  
-Ensemble de propositions exprimant les relations entre construits. Il permet de représenter la situation problématique et de tirer des conjectures sur les formes possibles de la solution. (March et Smith, 1995)
+Ensemble de propositions exprimant les relations entre construits. Il permet de représenter la situation problématique et de tirer des conjectures sur les formes possibles de la solution (March et Smith, 1995).
  
- * Une méthode
+  - Une méthode
  
- Série d'étapes pour réaliser certaines tâches. Elle se base sur des construits et des modèles. 
+ Série d'étapes pour réaliser certaines tâches. Elle se base sur des construits et des modèles (Offerman et al., 2010)
 
+  - Une instanciation
+ 
+ Réalisation d'un artefact dans un environnement. Elle opérationnalise les constuits, les méthodes et les concepts et démontre leur faisabilité (March et Smith, 1995)
+ 
+  - Une design theory
+ 
+ **Voir** [Design theory]
 
 #### Produit/Technique VS. Process/Socio-technique (Artefact)
 - [ ] done 
@@ -88,7 +95,10 @@ Ensemble de propositions exprimant les relations entre construits. Il permet de 
 ### Méthode
 - [ ] done 
 
-### Design theory/*Kernel theories
+### Design theory
+- [ ] done 
+
+### Kernel theories
 - [ ] done 
 
 ### Utilité
