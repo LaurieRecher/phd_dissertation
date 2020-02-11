@@ -34,8 +34,8 @@ Une fois ces éléments identifiés, il s'agit de se reporter au Framework de S�
     <thead>
         <tr>
             <th colspan=2 rowspan=2>Framework de Selection des Stratégies d'Evaluation</th>
-            <th>Ex ante </th>
-            <th>Ex post </th>
+            <th>Ex ante (avant le prototypage) </th>
+            <th>Ex post (après le prototypage) </th>
         </tr>
     </thead>
     <tbody>
