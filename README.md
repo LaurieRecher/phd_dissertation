@@ -5,7 +5,6 @@ output:
   html_document
 titre: Glossaire
 ---
-# Glossaire
 
 ### Gap (*research gap*)
 
@@ -195,7 +194,13 @@ La pertinence d'une recherche interroge sa capacité à pouvoir être appliqué 
   * la concordance entre les technologies et problèmes adressés dans la recherche et ceux utilisés par les praticiens au moment de la publication. 
   * le style et le ton des contenus qui facilite leur accès aux praticiens. 
  
- Voir [Cycle de pertinence]
+**Voir** [Cycle de pertinence]
+
+### Rigueur scientifique (Research rigor)
+
+Usage précis de méthodes et analyses adaptées à la production de connaissance visée par le chercheur (Benbasat et Zmud, 1999)
+
+**Voir** [Cycle de rigueur]
 
 ### Protocole de l'étude de cas 
 - [ ] done 
