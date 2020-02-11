@@ -26,7 +26,25 @@ Une question articulant des objets théoriques, empiriques ou méthodologiques e
 ### Artefact 
 - [X] done 
 
-Résultat d'une recherche en design science créé dans le but de répondre à un problème organisationnel important. De nombreux débats existent dans la communauté des chercheurs en système d'information autour de la forme que peut prendre cet artefact. D'un côté, pour l'école américaine (Hevner et al., 2004 ; March et Smith., 1995) un artefact se définit par sa dimension matérielle et technologique (*IT artefact*). Il peut prendre la forme d'un modèle, d'un construit, d'une méthode ou d'une instanciation. De l'autre, pour l'école européenne et son porte-parole Carlsson (2006, 2010), un artefact doit prendre en compte les individus et les organisations qui gravitent autour des objets matériels et technologiques (*IS intervention*). Offermann et al. (2010), en accord avec cette typologie, distingue les artefacts structurels des artefacts comportementaux. 
+Résultat d'une recherche en design science créé dans le but de répondre à un problème organisationnel important. De nombreux débats existent dans la communauté des chercheurs en système d'information autour de la forme que peut prendre cet artefact. D'un côté, pour l'école américaine (Hevner et al., 2004 ; March et Smith., 1995) un artefact se définit par sa dimension matérielle et technologique (*IT artefact*). Il peut prendre la forme d'un modèle, d'un construit/concept, d'une méthode ou d'une instanciation. De l'autre, l'école européenne et son porte-parole Carlsson (2006, 2010, Venable et al., 2012) adoptent une définition plus large. Ils considèrent qu'un artefact doit prendre en compte les individus et les organisations qui gravitent autour des objets matériels et technologiques (*IS intervention*) et peut aussi prendre la forme d'une *design theory*. Offermann et al. (2010), en accord avec cette typologie, distingue les artefacts structurels des artefacts comportementaux. 
+
+### Formes d'un artefact
+- [] done 
+
+Un artefact peut prendre les formes suivantes : 
+ 
+ * Des concepts/construits
+
+Conceptualisations permettant de décrire le problème au sein d'un domaine et de spécifier les solutions possibles. Ils forment ainsi le vocabulaire du domaine (March et Smith, 1995). Ces conceptualisations peuvent atteindre un degré de formalisation élevé à l'instar des construits utilisés dans la modélisation de données sémantiques (entités, attributs, etc.) ou plus informel à l'instar des concepts utilisés pour analyser le travail coopératif (consensus, participation, satisfaction)
+
+ * Un modèle 
+ 
+Ensemble de propositions exprimant les relations entre construits. Il permet de représenter la situation problématique et de tirer des conjectures sur les formes possibles de la solution. (March et Smith, 1995)
+ 
+ * Une méthode
+ 
+ Série d'étapes pour réaliser certaines tâches. Elle se base sur des construits et des modèles. 
+
 
 #### Produit/Technique VS. Process/Socio-technique (Artefact)
 - [ ] done 
@@ -197,7 +215,7 @@ La pertinence d'une recherche interroge sa capacité à pouvoir être appliqué 
 **Voir** [Cycle de pertinence]
 
 ### Rigueur scientifique (Research rigor)
-
+- [X] done 
 Usage précis de méthodes et analyses adaptées à la production de connaissance visée par le chercheur (Benbasat et Zmud, 1999)
 
 **Voir** [Cycle de rigueur]
