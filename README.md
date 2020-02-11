@@ -7,10 +7,12 @@ titre: Glossaire
 ---
 
 ### Gap (*research gap*)
+- [X] done 
 
 Formule qui résume le regard critique porté sur la littérature scientifique dans un domaine et qui propose une réorientation de la recherche qui permettrait une meilleure compréhension d'un problème ou d'un construit. Le gap peut pointer du doigt ce qui n'a pas été réalisé de façon rigoureuse ou pertinente. Il peut également venir identifier des biais méthodologiques ou théoriques dans la littérature. (Rowe, 2014, p.243)
 
 ### Question/Objet de recherche 
+- [X] done 
 
 Une question articulant des objets théoriques, empiriques ou méthodologiques et qui permettra de créer ou découvrir d'autres objets théoriques, empiriques ou méthodologiques pour expliquer, prédire, comprendre, changer la réalité sociale (Thiétart et al., 2014, p.52)
 
@@ -122,18 +124,6 @@ Degré de prise en compte des normes morales et éthiques dans la conception et 
 ### Design de recherche 
 - [ ] done 
 
-### Instance
-- [ ] done 
-
-### Concept
-- [ ] done 
-
-### Modèle
-- [ ] done 
-
-### Méthode
-- [ ] done 
-
 ### Design theory
 - [X] done 
 
@@ -141,32 +131,20 @@ Design augmenté par un cadre théorique et des propositions qui précisent son 
 
 ### Kernel theories
 - [ ] done 
-
-### Utilité
-- [ ] done 
-
-### Efficience
-- [ ] done 
-
-### Efficacité
-- [ ] done 
-
-### Qualité
-- [ ] done 
-
+ 
 ### "On juge un arbre à ses fruits" (évaluation)
 - [ ] done 
 
-### Naturaliste (évaluation)
+### Evaluation naturaliste
 - [ ] done 
 
-### Artificielle (évaluation)
+### Evaluation artificielle
 - [ ] done 
 
-### Formative (évaluation)
+### Evaluation formative
 - [ ] done 
 
-### Sommative (évaluation)
+### Evaluation sommative
 - [ ] done 
 
 ### Principes de design 
@@ -289,37 +267,57 @@ Usage précis de méthodes et analyses adaptées à la production de connaissanc
 
 Hevner et Chatterjee, 2010
 
-### Cycle de design (Hevner et Chatterjee, 2010)
+### Cycle de design 
 - [ ] done 
 
-### Cycle de rigueur (Hevner et Chatterjee, 2010)
+(Hevner et Chatterjee, 2010)
+
+### Cycle de rigueur 
 - [ ] done 
 
-### Parties prenantes des plateformes (Eisenmann et al., 2008 ; Lusch et Nambisan, 2015)
+(Hevner et Chatterjee, 2010)
+
+### Parties prenantes des plateformes 
 - [ ] done 
 
-### Exploration hybride (démarche) (Thiétart et al., 2014, p.93)
+(Eisenmann et al., 2008 ; Lusch et Nambisan, 2015)
+
+### Exploration hybride 
 - [ ] done 
 
-### Méthode des cas (Hlady-Rispal,2002)
+(Thiétart et al., 2014, p.93)
+
+### Méthode des cas 
 - [ ] done 
 
-### Canevas de recherche (Hlady-Rispal,2002)
+(Hlady-Rispal,2002)
+
+### Canevas de recherche 
 - [ ] done 
 
-### Impératif de décentration/impératif de participation (Hlady-Rispal,2002, p.109) 
+(Hlady-Rispal,2002)
+
+### Impératif de décentration/impératif de participation 
 - [ ] done 
 
-### Echantillon d'observation (Thiétart et al., 2014)
+(Hlady-Rispal,2002, p.109) 
+
+### Echantillon d'observation 
 - [ ] done 
+
+(Thiétart et al., 2014)
 
 ### Technique de la boule de neige
 - [ ] done 
 
-### Principe d'opportunisme méthodologique (Hlady-Rispal,2002)
+### Principe d'opportunisme méthodologique 
 - [ ] done 
 
-### Contexte parents (Passeron, 2006)
+(Hlady-Rispal,2002)
+
+### Contexte parents 
 - [ ] done 
+
+(Passeron, 2006)
 
 
