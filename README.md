@@ -26,7 +26,7 @@ Une question articulant des objets théoriques, empiriques ou méthodologiques e
 ### Artefact 
 - [X] done 
 
-Résultat d'une recherche en design science créé dans le but de répondre à un problème organisationnel important. De nombreux débats existent dans la communauté des chercheurs en système d'information autour de la forme que peut prendre cet artefact. D'un côté, pour l'école américaine (Hevner et al., 2004 ; March et Smith., 1995) un artefact se définit par sa dimension matérielle et technologique (*IT artefact*). Il peut prendre la forme d'un modèle, d'un construit/concept, d'une méthode ou d'une instanciation. De l'autre, l'école européenne et son porte-parole Carlsson (2006, 2010, Venable et al., 2012) adoptent une définition plus large. Ils considèrent qu'un artefact doit prendre en compte les individus et les organisations qui gravitent autour des objets matériels et technologiques (*IS intervention*) et peut aussi prendre la forme d'une *design theory*. Offermann et al. (2010), en accord avec cette typologie, distingue les artefacts structurels des artefacts comportementaux. 
+Résultat d'une recherche en design science créé dans le but de répondre à un problème organisationnel important. De nombreux débats existent dans la communauté des chercheurs en système d'information autour de la forme et de la nature que peut prendre cet artefact. D'un côté, pour l'école américaine (Hevner et al., 2004 ; March et Smith., 1995) un artefact se définit par sa dimension matérielle et technologique (*IT artefact*). Il peut prendre la forme d'un modèle, d'un construit/concept, d'une méthode ou d'une instanciation. De l'autre, l'école européenne et son porte-parole Carlsson (2006, 2010, Venable et al., 2012) adoptent une définition plus large. Ils considèrent qu'un artefact doit prendre en compte les individus et les organisations qui gravitent autour des objets matériels et technologiques (*IS intervention*) et peut aussi prendre la forme d'une *design theory*. Offermann et al. (2010), en accord avec cette typologie, distingue les artefacts structurels des artefacts comportementaux. 
 
 ### Formes d'un artefact
 - [X] done 
@@ -48,13 +48,51 @@ Ensemble de propositions exprimant les relations entre construits. Il permet de 
   - Une instanciation
  
  Réalisation d'un artefact dans un environnement. Elle opérationnalise les constuits, les méthodes et les concepts et démontre leur faisabilité (March et Smith, 1995)
- 
+
   - Une design theory
  
  **Voir** [Design theory]
 
-#### Produit/Technique VS. Process/Socio-technique (Artefact)
-- [ ] done 
+#### Nature d'un artefact
+- [X] done 
+
+Ensemble de composants essentiels d'un artefact. On distingue deux natures possibles parmi les artefacts : 
+  
+  - Les artefacts produits ou structurels
+ 
+ Ils sont constitués exclusivement d'objets technologiques (outils, diagrammes, logiciels) dont les individus peuvent s'emparer pour accomplir une tâches
+ 
+  - Les artefacts process ou comportementaux 
+  
+Ils sont constitués également d'objets technologiques mais englobent également des process qui supposent des interactions directe avec des individus et un changement dans leur comportement. 
+
+#### Propriétés d'un artefact
+
+Aspects d'un artefact devant être évalués au cours de la recherche. Checkland et Scholes (1990) en distingue 5 : 
+ 
+  - Efficience
+ 
+ Capacité d'un artefact à résoudre avec un minimum de moyen un problème organisationel
+ 
+  - Utilité 
+  
+Capacité d'un artefact à répondre à la question de recherche qui lui a donné naissance et à résoudre un problème organisationnel en situation d'usage réelle
+  
+
+  - Efficacité 
+  
+Capacité d'un artefact à produire précisément les effets escomptés, pris indépendamment de situations d'usage réelles. 
+
+  - Ethique
+ 
+Degré de prise en compte des normes morales et éthiques dans la conception et les usages supposés de l'artefact
+ 
+   - Elegance 
+ 
+ Caractère esthétique d'un artefact aidant à sa prise en main par les futurs utilisateurs.
+ 
+ 
+
 
 ### Wicked problem
 - [ ] done 
