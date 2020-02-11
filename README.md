@@ -1,5 +1,5 @@
 ---
-auteur: John Doe
+auteur: Arthur Sarazin
 number_sections: TRUE
 output:
   html_document
