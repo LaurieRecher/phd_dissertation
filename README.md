@@ -195,9 +195,7 @@ La pertinence d'une recherche interroge sa capacité à pouvoir être appliqué 
   * la concordance entre les technologies et problèmes adressés dans la recherche et ceux utilisés par les praticiens au moment de la publication. 
   * le style et le ton des contenus qui facilite leur accès aux praticiens. 
  
- Voir [Cyle de pertinence (Hevner et Chatterjee, 2010)]
-### Processus de recherche(Hevner et al., 2004)
-- [ ] done 
+ Voir [Cycle de pertinence]
 
 ### Protocole de l'étude de cas 
 - [ ] done 
@@ -211,8 +209,10 @@ La pertinence d'une recherche interroge sa capacité à pouvoir être appliqué 
 ### Analyse de documents
 - [ ] done 
 
-### Cycle de pertinence (Hevner et Chatterjee, 2010)
+### Cycle de pertinence
 - [ ] done 
+
+Hevner et Chatterjee, 2010
 
 ### Cycle de design (Hevner et Chatterjee, 2010)
 - [ ] done 
