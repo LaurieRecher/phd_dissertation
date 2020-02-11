@@ -1,6 +1,6 @@
 # 7. Evaluations visant à estimer la capacité d'Innodata à faciliter les interactions entre les opérateurs de l'open data et les *data spaces*
 
-Dans le chapitre précédent, nous avons détaillé le  [**processus de prototypage**](README.md) qui nous a amené à concevoir l'**artefact**. Aussi avons-nous décrit formellement la structure de cet artefact et expliqué en quoi ses différents éléments pourraient répondre aux différents aspects de la question. Ces explications sont autant de réponses temporaires dont il s'agit d'évaluer la **pertinence empirique** et la **rigueur scientifique** dans ce chapitre. 
+Dans le chapitre précédent, nous avons détaillé le  [**processus de prototypage**](README.md) qui nous a amené à concevoir l'[**artefact**](README.md). Aussi avons-nous décrit formellement la structure de cet artefact et expliqué en quoi ses différents éléments pourraient répondre aux différents aspects de la question. Ces explications sont autant de réponses temporaires dont il s'agit d'évaluer la [**pertinence empirique**](README.md) et la [**rigueur scientifique**](README.md) dans ce chapitre. 
 
 Nous avons mené des évaluations dans le but d'estimer successivement la capacité des différentes versions d'Innodata (i.e les artefacts) à conduire l'innovation de services issue de l'open data dans les villes intelligentes vers l'idéal qu'elles se sont fixées. En effet, le choix de la *design science research methodology* suppose d'adopter une démarche intrinséquement itérative dans laquelle une première réponse artefactuelle est apportée avant d'être évaluée. Si la réponse est suffisamment pertinente empiriquement et rigoureuse scientifiquement, alors la recherche s'arrête. Dans le cas contraire, la question de recherche est précisée et un nouveau cycle de recherche démarre. Cette nouvelle itération apporte une deuxième réponse artefactuelle qui est à son tour évaluée, et ainsi de suite.
 
@@ -13,11 +13,11 @@ La stratégie globale d'évaluation des artefacts que nous avons mis en place (e
 ### Première étape de construction de la stratégie d'évaluation : analyse de l'évaluation
 La première étape du processus de décision consiste, une fois les activités de prototypage terminées, à évaluer le contexte et les objectifs de la phase d'évaluation. Venable et al. (2012) préconise de déterminer les 7 critères suivants et leur importance relative : 
 
-1. **La forme de l'artefact à évaluer** : s'agit-il d'un **concept** ? d'un **modèle** ? d'une **méthode** ? d'une **instanciation** ? d'une _**design theory**_ ?
+1. [**La forme de l'artefact à évaluer**](README.md) : s'agit-il d'un [**concept**](README.md) ? d'un [**modèle**](README.md) ? d'une [**méthode**](README.md) ? d'une [**instanciation**](README.md) ? d'une [_**design theory**_](README.md) ?
 
-2.  **La nature de l'artefact à évaluer**. On distingue généralement les artefacts qui prennent la forme d'un **produit** et ceux qui prennent la forme d'un process. Les **process** se distinguent des produits en ce qu'ils ajoutent aux aspects techniques d'un artefact (technologie utilisée, architecture matérielle ou logicielle) une dimension socio-technique dans la mesure où une interaction avec les humains est nécessaire pour donner à l'artefact toute son utilité. 
+2.  [**La nature de l'artefact à évaluer**](README.md). On distingue généralement les artefacts qui prennent la forme d'un [**produit**](README.md) et ceux qui prennent la forme d'un process. Les [**process**](README.md) se distinguent des produits en ce qu'ils ajoutent aux aspects techniques d'un artefact (technologie utilisée, architecture matérielle ou logicielle) une dimension socio-technique dans la mesure où une interaction avec les humains est nécessaire pour donner à l'artefact toute son utilité. 
 
-3. **Les propriétés de l'artefact à évaluer** : s'agit-il d'évaluer l'**utilité** ? l'**efficience** ? l'**éfficacité** ? la **qualité** ?
+3. [**Les propriétés de l'artefact à évaluer**](README.md) : s'agit-il d'évaluer l'[**utilité**](README.md) ? l'[**efficience**](README.md) ? l'[**éfficacité**](README.md) ? la [**qualité**](README.md) ?
 
 4. **Les objectifs de l'évaluation** : s'agit-il d'évaluer si l'artefact permet d'atteindre des objectifs fixés au préalable ? de le comparer à d'autres artefacts ? d'évaluer les effets collatéraux ou les conséquences inattendues de l'implantation de l'artefact ?
 
@@ -28,7 +28,7 @@ La première étape du processus de décision consiste, une fois les activités 
 7. **Pondération des critères précédents** : établir une pondération des six critères précédents en fonction de leur pertinence vis à vis du projet de recherche. Nous avons attribué à chacun des critères un coefficient allant de 1 (=critère non-pertinent) à 5 (=critère essentiel)
 
 ### Deuxième étape de construction de la stratégie d'évaluation : choix d'une stratégie
-Une fois ces éléments identifiés, il s'agit de se reporter au Framework de Sélection des Stratégies d'Evaluation en *Design Science Research* (Venable et al., 2012, p.11) qui fait le lien entre ces critères et différentes stratégies possibles pour l'évaluation d'un artefact : évaluation *ex ante* ou *ex post*, évaluation naturaliste ou artificielle. Chaque itération se voit alors attribuée un quadrant avec les caractéristiques de la(les) stratégie(s) choisie(s)
+Une fois ces éléments identifiés, il s'agit de se reporter au Framework de Sélection des Stratégies d'Evaluation en *Design Science Research* (Venable et al., 2012, p.11) qui fait le lien entre ces critères et différentes stratégies possibles pour l'évaluation d'un artefact : évaluation *ex ante* ou *ex post*, [évaluation naturaliste ou artificielle](README.md). Chaque itération se voit alors attribuée un quadrant avec les caractéristiques de la(les) stratégie(s) choisie(s)
 
 <table>
     <thead>
