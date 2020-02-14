@@ -47,6 +47,7 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td></td>
+            <td></td>
         </tr>
         <tr>
             <td>Plateforme de services</td>
@@ -55,7 +56,8 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td></td>
+            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
+            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
         </tr>
         <tr>
             <td>(Open) Data</td>
@@ -64,7 +66,8 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td></td>
+            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
+            <td><ul><li>Yu (2016) - PhD Working Book (1)/p.43-46</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
         </tr>
         <tr>
             <td>Ecosystème open data</td>
@@ -73,7 +76,8 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td></td>
+            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
+            <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
         </tr>
 
    
