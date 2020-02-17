@@ -51,7 +51,7 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
         </tr>
         <tr>
             <td>Plateforme de services</td>
-            <td><ul><li>Le Corf (2016)</li><li></li><li></li><li></li><li></li><li></li></ul></td>
+            <td><ul><li>Le Corf (2016)</li><li>Eckelberg et al. (2018)</li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li>Bourcier (2013)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
