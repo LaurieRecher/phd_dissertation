@@ -46,8 +46,8 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
-            <td></td>
-            <td></td>
+            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
+           <td><ul><li>Masure (2017) - PhD Working Book (1) - p.67-69</li><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
         </tr>
         <tr>
             <td>Plateforme de services</td>
