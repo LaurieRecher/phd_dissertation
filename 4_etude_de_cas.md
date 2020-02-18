@@ -54,12 +54,13 @@ Contrairement à la première étape dont le contenu évoluera au gré des itér
 
 Nous solliciterons plusieurs modes de collecte de données hétérogènes de façon à béneficier d’une triangulation des données. Aussi cette pluralité d'instruments nous permettera de renforcer la validité de nos construits et nous permettera d’établir les différentes dimensions de l'usage de la donnée que nous étudions ici. 
 
+- PhD Working Book (4) - p.82-93 - Méthodo de constitution de l'échantillon
+
 A nouveau, cette étape verra son contenu varier en fonction des évolutions de notre compréhension de la situation problématique et donc de la sous-question de recherche adressée par l'étude de cas. Cela étant, au commencement, dans le cadre de notre première itération, nous avons : 
 
 - réalisé des entretiens semi-directifs en suivant un protocole de collecte et d'analyse de contenu thématique (Miles et Huberman, 2004) cadré par l'heuristique d'écosystème open data et centré autour des deux unités d'analyses choisies dans le chapitre précédent. 
 - conduit des analyses de document internes produits directement par des opérateurs de l'open data à Lyon et à Grenoble. Nous avons également suivi un protocole d'analyse de contenu thématique (Miles et Huberman, 2004)
 
-- PhD Working Book (4) - p.82-93 - Méthodo de constitution de l'échantillon
 
 ### 4ème étape : immersion dans le terrain
 - [X] done - expliquer la variation du protocole en fonction de l'itération 
