@@ -47,6 +47,7 @@ A nouveau, répetons que cette première question sera précisée ou complèteme
 
 Contrairement à la première étape dont le contenu évoluera au gré des itérations, cette deuxième étape est statique. En effet, nous n'étudierons que les cas des écosystèmes open data de la métropôle Grenoble-Alpes et du Grand Lyon. Cette sélection de cas se justifie, au-delà de leur facilité d'accès pour l'équipe de recherche, par le fait que ces deux ecosystèmes possèdent un double avantage. D'un côté, ils sont suffisamment mures pour qu'on puisse y observer des phénomènes d'usage des données. De l'autre, ils sont suffisamment hétérogènes en termes de géométrie, de mode de gestion et d'orientation, pour que les résultats communs aux deux cas puissent prétendre à une certaine validité externe. 
 
+- PhD Working Book (4) - p.82-93 - Méthodo de constitution de l'échantillon
 
 ### 3ème étape : construction du protocole et des instruments de l’étude de cas
 - [X] done - expliquer la variation du protocole en fonction de l'itération 
@@ -57,6 +58,8 @@ A nouveau, cette étape verra son contenu varier en fonction des évolutions de 
 
 - réalisé des entretiens semi-directifs en suivant un protocole de collecte et d'analyse de contenu thématique (Miles et Huberman, 2004) cadré par l'heuristique d'écosystème open data et centré autour des deux unités d'analyses choisies dans le chapitre précédent. 
 - conduit des analyses de document internes produits directement par des opérateurs de l'open data à Lyon et à Grenoble. Nous avons également suivi un protocole d'analyse de contenu thématique (Miles et Huberman, 2004)
+
+- PhD Working Book (4) - p.82-93 - Méthodo de constitution de l'échantillon
 
 ### 4ème étape : immersion dans le terrain
 - [X] done - expliquer la variation du protocole en fonction de l'itération 
