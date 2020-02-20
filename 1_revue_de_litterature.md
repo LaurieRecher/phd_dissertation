@@ -65,7 +65,7 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
             <td><ul><li>McLeod et Mc Naughton (2016)</li><li>Zuiderwijk (2015)</li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li> </li><li></li></ul></td>
-            <td><ul><li>Ruppert (2012)</li><li>Denis et Goeta (2013)</li><li>Goeta (2016)</li><li></li><li> </li><li></li></ul></td>
+            <td><ul><li>Ruppert (2012)</li><li>Denis et Goeta (2013)</li><li>Goeta (2016)</li><li>Flyverbom et Murray (2018)</li><li> </li><li></li></ul></td>
             <td><ul><li>Ojo et al. (2015)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li>Yu (2016) - PhD Working Book (1)/p.43-46</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
         </tr>
