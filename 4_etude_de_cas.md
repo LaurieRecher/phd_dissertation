@@ -49,6 +49,7 @@ Contrairement à la première étape dont le contenu évoluera au gré des itér
 
 - PhD Working Book (4) - p.82-93 - Méthodo de constitution de l'échantillon
 - PhD Working Book (6) - p.11 - Méthode de sélection des cas Zuiderwijk (theoretical sampling)
+- PhD Working Book (6) - p.44 - Méthode de sélection des cas de Dawes et al. (2016)
 
 ### 3ème étape : construction du protocole et des instruments de l’étude de cas
 - [X] done - expliquer la variation du protocole en fonction de l'itération 
@@ -71,6 +72,8 @@ A l'image de cette thèse, la phase de collecte de donnée et d'immersion dans l
 
 > For theory-building research, (altering data collection methods) is legitimate because investigators are trying to understand each case individually and as much depth as is feasible. Thus, if a new data collection opportunity arises and if a new line of thinking emerges during the research, it makes sense to take advantage by altering data collection, if such an alteration is likely to better ground the theory or to provide new theoretical insight”
 > - Eisenhardt (1984, p. 539)
+
+- PhD Working Book (6) - p.44-45 Données collectées par Dawes et al. (2016)
 
 
 ### 5ème étape : analyse intra-cas
