@@ -82,11 +82,14 @@ A l'image de cette thèse, la phase de collecte de donnée et d'immersion dans l
 Dans cette cinquième phase, si les objectifs de l'analyse évolueront au gré des itérations, le protocole sera le même. 
 Nous commencerons par établir une longue description des cas qui aidera à traiter les larges volumes de données récoltées. Ensuite, nous reprendrons la méthode utilisée par Leonard-Barton (1988) qui utilise des tableaux et des graphiques d’information pour représenter les données. 
 
+- PhD Working Book (6) - p.46 - Utilisation de la cartographie de données pour organiser les données 
+
 ### 6ème cas : recherche de pattern inter-cas
 - [X] done - expliquer la variation du protocole en fonction de l'itération 
 
 Dans la même veine que dans la cinquième étape, si les objectifs de l'analyse évolueront au gré des itérations, le protocole sera le même. Nous utiliserons ici la tactique qui consiste à sélectionner des catégories ou des dimensions particulières puis de confronter les similitudes intra-cas avec les différences entre les cas(Eisenhardt, 1984, p.540). Cette méthode nous permettra d’identifier aussi bien des traits spécifiques que des traits communs à nos deux cas. 
 
+- PhD Working Book (6) - p.46 - Utilisation de la cartographie de données pour organiser les données 
 
 ### 7ème cas : Ebauche d'hypothèses
 - [X] done - expliquer la variation du protocole en fonction de l'itération 
