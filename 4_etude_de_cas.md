@@ -48,6 +48,7 @@ A nouveau, répetons que cette première question sera précisée ou complèteme
 Contrairement à la première étape dont le contenu évoluera au gré des itérations, cette deuxième étape est statique. En effet, nous n'étudierons que les cas des écosystèmes open data de la métropôle Grenoble-Alpes et du Grand Lyon. Cette sélection de cas se justifie, au-delà de leur facilité d'accès pour l'équipe de recherche, par le fait que ces deux ecosystèmes possèdent un double avantage. D'un côté, ils sont suffisamment mures pour qu'on puisse y observer des phénomènes d'usage des données. De l'autre, ils sont suffisamment hétérogènes en termes de géométrie, de mode de gestion et d'orientation, pour que les résultats communs aux deux cas puissent prétendre à une certaine validité externe. 
 
 - PhD Working Book (4) - p.82-93 - Méthodo de constitution de l'échantillon
+- PhD Working Book (6) - p.11 - Méthode de sélection des cas Zuiderwijk (theoretical sampling)
 
 ### 3ème étape : construction du protocole et des instruments de l’étude de cas
 - [X] done - expliquer la variation du protocole en fonction de l'itération 
@@ -55,6 +56,7 @@ Contrairement à la première étape dont le contenu évoluera au gré des itér
 Nous solliciterons plusieurs modes de collecte de données hétérogènes de façon à béneficier d’une triangulation des données. Aussi cette pluralité d'instruments nous permettera de renforcer la validité de nos construits et nous permettera d’établir les différentes dimensions de l'usage de la donnée que nous étudions ici. 
 
 - PhD Working Book (4) - p.82-93 - Méthodo de constitution de l'échantillon
+- PhD Working Book (6) )- p.41 - Utilisation de l'heuristique dans le cadre de l'étude de cas
 
 A nouveau, cette étape verra son contenu varier en fonction des évolutions de notre compréhension de la situation problématique et donc de la sous-question de recherche adressée par l'étude de cas. Cela étant, au commencement, dans le cadre de notre première itération, nous avons : 
 
