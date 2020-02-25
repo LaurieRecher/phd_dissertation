@@ -51,10 +51,10 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
         </tr>
         <tr>
             <td>Plateforme de services</td>
-            <td><ul><li>Le Corf (2016)</li><li>Eckelberg et al. (2018)</li><li>Dissémination (Loveluck, 2015)</li><li>Zhu et Freeman (2018)</li><li>Denis et Pontille (2012)</li><li>Couture (2012)</li></ul></td>
+            <td><ul><li>Le Corf (2016)</li><li>Eckelberg et al. (2018)</li><li>Dissémination (Loveluck, 2015)</li><li>Zhu et Freeman (2018)</li><li>Denis et Pontille (2012)</li><li>Boutet (2001)</li></ul></td>
             <td><ul><li>Courmont (2015)</li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li>Cathedral model (Raymond, 1999)</li><li>Cognitivist platform (Danneels, 2017)</li><li>Captation (Loveluck, 2015)</li><li>Schweik (2006)</li><li> </li><li></li></ul></td>
-            <td><ul><li>Bourcier (2013)</li><li>Hogan (2017)</li><li></li><li></li><li> </li><li></li></ul></td>
+            <td><ul><li>Bourcier (2013)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li>IRM (2015)</li><li>Ojo et al. (2015)</li><li>Carrara et al.(2015)</li><li></li><li> </li><li></li></ul></td>
             <td><ul><li>Connectionist platform (Danneels, 2017)</li><li>Jetzek et al.(2014) OGD data-driven innovation mechanisms</li><li></li><li></li><li> </li><li></li></ul></td>
             <td><ul><li>Peixoto (2007)</li><li>Villum (2014)</li><li>Attour et Rallet (2014)</li><li>Bazaar model (Raymond, 1999)</li><li>Aupoietic platofrm (Dannels, 2017)</li><li>Auto-institution (Loveluck, 2015)</li><li></li></ul></td>
