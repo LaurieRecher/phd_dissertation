@@ -9,6 +9,8 @@ Dans ce cinquième chapitre, il est question de passer des besoins fonctionnels 
 
 ### Construction des proposisions de design
 
+- PhD Working Book (9) - p. 133 - Formulation des propositions de design
+
 ### Construction des principes de design
 
 - PhD Working Book (4) - p. 28-29 - Définition et exemples de principes de design 
