@@ -71,7 +71,7 @@ A ces 5 niveaux, nous en ajoutons un sixième, qui permet de prendre en compte l
         </tr>
         <tr>
             <td>Ecosystème open data</td>
-            <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
+            <td><ul><li>Harrison et al. (2012)/PhD Working Book (9) p.227</li><li></li><li></li><li></li><li></li><li></li></ul></td>
             <td><ul><li></li><li></li><li></li><li></li><li></li><li></li></ul></td>
     <td><ul><li>Gouvernance ville-PhD Working Book (p.59-60)</li><li>Lee (2014)</li><li>Pollock (2011)</li><li>O'Reilly (2011)</li><li> </li></ul></td>
             <td><ul><li>McLeod et Mc Naughton (2016)</li><li></li><li></li><li></li><li> </li><li></li></ul></td>
