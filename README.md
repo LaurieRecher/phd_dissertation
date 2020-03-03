@@ -107,7 +107,9 @@ Degré de prise en compte des normes morales et éthiques dans la conception et 
 - [ ] done 
 
 ### Architecture de recherche 
-- [ ] done 
+- [X] done 
+
+Aussi appelée design de la recherche, elle constitue la trame qui permet d'articuler les différents éléments d'une recherche : problématique, littérature, données, analyse et résultats (Thiétart et al., 2014)
 
 ### Posture scientifique 
 - [ ] done 
