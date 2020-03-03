@@ -121,7 +121,9 @@ Aussi appelée design de la recherche, elle constitue la trame qui permet d'arti
 - [ ] done 
 
 ### Principes opérationnels (*mise en place de la méthodologie*)
-- [ ] done 
+- [x] done 
+
+Aussi appelés "principes de construction", ils se définissent comme « un ensemble cohérent de propositions, bâties sur l’état de l’art en sciences des organisations, pour produire de nouvelles conceptions et formes organisationnelles et redévelopper celles existantes» (Romme et Endenburg, 2006, p.288). Ils régissent ainsi le processus de production des artefacts et des connaissances qui constitueront les résultats de nos travaux de thèse.
 
 ### Design de recherche 
 - [ ] done 
