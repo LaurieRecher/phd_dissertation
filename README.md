@@ -109,7 +109,7 @@ Degré de prise en compte des normes morales et éthiques dans la conception et 
 ### Architecture de recherche 
 - [X] done 
 
-Aussi appelée design de la recherche, elle constitue la trame qui permet d'articuler les différents éléments d'une recherche : problématique, littérature, données, analyse et résultats (Thiétart et al., 2014)
+Aussi appelée design de la recherche, elle constitue la trame qui permet d'articuler les différents éléments d'une recherche : problématique, littérature, données, analyse et résultats (Thiétart et al., 2014). Nous considérons dans cette thèse que cette trame doit découler logiquement d'un positionnement ontologique, épistémologique et méthodologique déterminé. 
 
 ### Posture scientifique 
 - [ ] done 
