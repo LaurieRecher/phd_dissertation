@@ -232,6 +232,8 @@ Elements ayant une influence négative sur les interactions entre un système te
 ### Ecosystème open data
 - [ ] done 
 
+Ecologie informationnelle dont l’équilibre repose sur la circulation de jeux de données ouverts qui agissent à l’image d’une “espèce ingénieur“. Cette écologie est constituée de 3 systèmes : le système de production de données, le système de transformation de données en services informationnels et le système d’intermédiation qui coordonne les interactions entre les deux via une plateforme.
+
 ### Open data work/Usage des données ouvertes
 - [ ] done
 
