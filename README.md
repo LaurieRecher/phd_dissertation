@@ -291,8 +291,10 @@ Hevner et Chatterjee, 2010
 
 (Hevner et Chatterjee, 2010)
 
-### Parties prenantes des plateformes 
-- [ ] done 
+### Plateforme open data (parties prenantes)
+- [X] done 
+
+Structure modulaire composée d’éléments tangibles et intangibles qui facilitent l’interaction des acteurs et des données ouvertes. Selon Lusch et Nambisan (2015), une plateforme permet de maximiser la densité des données ouvertes à un endroit donné et d’augmenter leur liquidité.
 
 (Eisenmann et al., 2008 ; Lusch et Nambisan, 2015)
 
